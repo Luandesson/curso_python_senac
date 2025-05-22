@@ -2,7 +2,7 @@
 
 Repositório com projetos e exercícios desenvolvidos durante o curso de Python no SENAC Campo Grande.
 
- ##📚 Índice de Atividades
+#📚 Índice de Atividades
 
 1. [Olá World](./ola-world) – Primeiro programa em Python.
 2. [Cálculo de Média](./media-nota) – Operações matemáticas básicas.
