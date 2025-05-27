@@ -1,3 +1,5 @@
+🔧 Desenvolvido por [Luan](https://github.com/Luandesson) 🇧🇷
+
 # 📘 Verificador de Aptidão do Estudante
 
 Este programa simples em Python calcula a média de duas notas e verifica se o estudante está **APTO** ou **NÃO APTO**, com base em sua média e frequência.
@@ -29,7 +31,5 @@ Informe a sua 1ª nota: 85
 Informe a sua 2ª nota: 75
 Qual a sua frequência de 0 a 100 (%): 80
 Olá! Luan, parabéns! Você está apto. A média da sua nota é 80.0, sua frequência é 80%.
-
-[🔧 Desenvolvido por [Luan](https://github.com/Luandesson) 🇧🇷]
 
 
