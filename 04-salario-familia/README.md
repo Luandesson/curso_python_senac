@@ -16,6 +16,7 @@ Se tiver filhos, o salário líquido será: salário bruto + (300 x número de f
 Se não tiver filhos, o salário líquido será igual ao salário bruto
 
 💡 Exemplo de execução
+
 Olá! colaborador, me informe seu último nome: Silva
 Me informe o seu salário bruto: 2500,00
 Ok, agora me informe a quantidade de filhos que você possui: 2
