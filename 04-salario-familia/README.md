@@ -17,7 +17,7 @@ Salário bruto
 Quantidade de filhos
 
 💡 Exemplo de execução
-bash
+
 Olá! colaborador, me informe seu último nome: Silva  
 Me informe o seu salário bruto: 2500,00  
 Ok, agora me informe a quantidade de filhos que você possui: 2  
