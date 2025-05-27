@@ -1,19 +1,14 @@
 🧮 Operação Salário Família
-Programa para calcular o salário líquido do colaborador incluindo o salário-família de R$300,00 por filho.
+O programa tem como propósito calcular o salário líquido do colaborador com base no salário família, adicionando R$300,00 por filho.
 
 📥 Entradas
+O programa solicita as seguintes informações do usuário:
 
 Nome do colaborador
 
-Salário bruto (formato brasileiro)
+Salário bruto (no formato brasileiro, ex: 2.500,00)
 
 Quantidade de filhos
-
-⚙️ Lógica
-
-Se tiver filhos, o salário líquido será: salário bruto + (300 x número de filhos)
-
-Se não tiver filhos, o salário líquido será igual ao salário bruto
 
 💡 Exemplo de execução
 
