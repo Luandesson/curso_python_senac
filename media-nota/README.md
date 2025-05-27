@@ -29,5 +29,7 @@ Informe a sua 1ª nota: 85
 Informe a sua 2ª nota: 75
 Qual a sua frequência de 0 a 100 (%): 80
 Olá! Luan, parabéns! Você está apto. A média da sua nota é 80.0, sua frequência é 80%.
+```exit
 
 🛠 Desenvolvido por [Luan](https://github.com/Luandesson) 🇧🇷
+
