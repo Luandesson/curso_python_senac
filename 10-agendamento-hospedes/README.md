@@ -65,6 +65,7 @@ else:
     print(f"VALOR TOTAL:..............: R${valor_desconto_br}")
 ```
 ❓ Como o programa funciona?
+
 Entrada de dados: O sistema coleta a modalidade da acomodação, o número de adultos, crianças e dias de hospedagem.
 
 Validação: Verifica se o total de pessoas não ultrapassa 4 e se a estadia não excede 30 dias.
@@ -74,7 +75,9 @@ Cálculo: Define preços para acomodações Standard e Luxo, calcula o valor tot
 Resumo: Exibe um resumo detalhado da reserva, incluindo os dados cadastrados do hóspede.
 
 🔍 Exemplo de Execução
+
 Bem-vindo à rede de hoteis Senac RJ
+
  Tipo de acomodação  (Standard ou Luxo) ?? Standard
 Quantos adultos? 2
 Quantas crianças? 1
@@ -82,7 +85,9 @@ Quantos dias? 8
 Olá, informe seu nome completo: Maria Silva
 Informe o seu e-mail: maria@mail.com
 
+
 AQUI ESTÁ O RESUMO DA RESERVA DE HOSPEDAGEM
+
 TIPO ACOMODAÇÃO:............: Standard
 QUANTIDADE DE ADULTOS:......: 2
 QUANTIDADE DE CRIANÇAS:.....: 1
