@@ -63,7 +63,7 @@ else:
     print(f"QUANTIDADE DE CRIANÇAS:.....: {kids}")
     print(f"QUANTIDADE DE DIAS:.........: {dias}")
     print(f"VALOR TOTAL:..............: R${valor_desconto_br}")
-
+```
 ❓ Como o programa funciona?
 Entrada de dados: O sistema coleta a modalidade da acomodação, o número de adultos, crianças e dias de hospedagem.
 
