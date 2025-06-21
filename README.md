@@ -1,4 +1,4 @@
-# Curso Python SENAC
+# Curso Python SENAC [![My Skills](https://skillicons.dev/icons?i=py&theme=light)](https://skillicons.dev)
 
 Repositório com projetos e exercícios desenvolvidos durante o curso de Python no SENAC Campo Grande.
 
